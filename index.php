@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'hola esto es una prueba de instalación';
+        echo 'hola esto es una prueba de modificacion';
         ?>
     </body>
 </html>
